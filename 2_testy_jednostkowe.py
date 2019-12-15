@@ -13,6 +13,3 @@ def test_product():
     assert product(5, 5) == 25
     assert product(5, 2.5) == 12.5
     assert product(0, 0) == 0
-
-test_add()
-test_product()

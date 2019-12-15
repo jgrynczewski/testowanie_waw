@@ -14,11 +14,6 @@ def test_product():
 
 
 def test_is_palindrom():
-    assert funkcje.is_palindrom("adsa")
+    assert funkcje.is_palindrom("asdsa")
     assert funkcje.is_palindrom("")
     assert funkcje.is_palindrom("Kobyła ma Mały Bok")
-
-
-test_add()
-test_product()
-test_is_palindrom()
